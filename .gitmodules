@@ -1,0 +1,15 @@
+[submodule "third_party/cpplint"]
+	path = third_party/cpplint
+	url = https://github.com/cpplint/cpplint.git
+[submodule "third_party/googletest"]
+	path = third_party/googletest
+	url = https://github.com/google/googletest.git
+[submodule "third_party/gpuweb-cts"]
+	path = third_party/gpuweb-cts
+	url = https://github.com/gpuweb/cts.git
+[submodule "third_party/spirv-headers"]
+	path = third_party/spirv-headers
+	url = https://github.com/KhronosGroup/SPIRV-Headers.git
+[submodule "third_party/spirv-tools"]
+	path = third_party/spirv-tools
+	url = https://github.com/KhronosGroup/SPIRV-Tools.git
